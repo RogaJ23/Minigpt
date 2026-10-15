@@ -36,7 +36,7 @@ LOG.md           running notes
 | Model | Params | Val loss |
 |-------|--------|----------|
 | Uniform guess (ln 65) | – | 4.17 |
-| Bigram (week 1) | 4,225 | _fill in_ |
+| Bigram (week 1) | 4,225 | 2.49 |
 | Transformer (week 2) | _TBD_ | _TBD_ |
 
 ## Roadmap

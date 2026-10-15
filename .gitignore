@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+data/*.txt
+checkpoints/
+runs/
+.pytest_cache/

@@ -5,3 +5,4 @@ data/*.txt
 checkpoints/
 runs/
 .pytest_cache/
+.DS_Store
